@@ -1,17 +1,7 @@
 # OPEC-Net
 [Peeking into occluded joints: A novel framework for crowd pose estimation](https://arxiv.org/pdf/2003.10506.pdf)(ECCV2020)  
-![pipeline](show_imgs/pipeline.png)
+![](show_imgs/pipeline.png)
 
-# Citation
-If you find our works useful in your reasearch, please consider citing:  
-```
-@article{qiu2020peeking,
-  title={Peeking into occluded joints: A novel framework for crowd pose estimation},
-  author={Qiu, Lingteng and Zhang, Xuanye and Li, Yanran and Li, Guanbin and Wu, Xiaojun and Xiong, Zixiang and Han, Xiaoguang and Cui, Shuguang},
-  journal={arXiv preprint arXiv:2003.10506},
-  year={2020}
-}
-```
 # Dependencies  
 - PyTorch(>=0.4 && <=1.0)  
 - mmcv
@@ -123,4 +113,15 @@ AlphaPose+ | 30.8 | 58.4 |28.5 | 22.4 | 8.2
 
 # Visualization
 ![result on crowdpose](show_imgs/visualization.png)
+
+# Citation
+If you find our works useful in your reasearch, please consider citing:  
+```
+@article{qiu2020peeking,
+  title={Peeking into occluded joints: A novel framework for crowd pose estimation},
+  author={Qiu, Lingteng and Zhang, Xuanye and Li, Yanran and Li, Guanbin and Wu, Xiaojun and Xiong, Zixiang and Han, Xiaoguang and Cui, Shuguang},
+  journal={arXiv preprint arXiv:2003.10506},
+  year={2020}
+}
+```
 

@@ -14,7 +14,10 @@ If you find our works useful in your reasearch, please consider citing:
 
 ```
 # Dependencies  
-- PyTorch
+- PyTorch(>0.4 >=1.0)  
+- mmcv
+- OpenCV
+- tqdm
 
 # OCPose
 

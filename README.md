@@ -14,10 +14,13 @@ If you find our works useful in your reasearch, please consider citing:
 
 ```
 # Dependencies  
-- PyTorch(>0.4 >=1.0)  
+- PyTorch(>=0.4 && <=1.0)  
 - mmcv
 - OpenCV
-- tqdm
+
+This code is tested under Ubuntu 18.04, CUDA 10.1, cuDNN 7.1 environment with two NVIDIA 1080Ti GPUs.
+
+Python 3.6.5 version is used for development.
 
 # OCPose
 

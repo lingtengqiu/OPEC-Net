@@ -62,6 +62,8 @@ The pretrain checkpoints trained by official codes could be download as followin
 [SPPE](https://drive.google.com/file/d/1Wcf5CWYGeMsfKn77Pu5wk6GpwEIScY2q/view?usp=sharing)  
 [yolov3](https://drive.google.com/file/d/1IAtLxnOkE5DkTJ5Lsi7kLLU-edAgzaw_/view?usp=sharing)  
 
+## Training 
+Instead of using pretrain module in coco2017, we simply provide your quick start version, where you merely train the OPEC-Net from processed data including both coco and CrowdPose.
 
 
 # Results

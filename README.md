@@ -19,7 +19,7 @@ OCPose | 9000 | 8105(**90%**) | 6843(**76%**) | 2442(**27%**) | **0.47**
 ## Download
 
 [Images](https://drive.google.com/file/d/1oQ1_epocYgvlha4eowt1FS-5f89XU7xw/view?usp=sharing)  
-[Annotations]()
+[Annotations](https://drive.google.com/file/d/1z8xlN56x9aKve4YSEudYJOJOPt4YaC7H/view?usp=sharing)
  
 
 

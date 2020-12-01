@@ -46,5 +46,8 @@ pls, Download annotations processed by sampling rules according to our paper
 [train_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)  
 [test_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)  
 
+## Pretrain module
+Here, we mainly employ top-down module(Alphapose+ based on pytorch) as our initial module.  
+The pretrain checkpoints trained by official codes could be download as following:
 
 

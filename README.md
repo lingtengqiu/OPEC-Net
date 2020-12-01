@@ -11,7 +11,6 @@ If you find our works useful in your reasearch, please consider citing:
   journal={arXiv preprint arXiv:2003.10506},
   year={2020}
 }
-
 ```
 # Dependencies  
 - PyTorch(>=0.4 && <=1.0)  

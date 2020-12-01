@@ -13,6 +13,8 @@ If you find our works useful in your reasearch, please consider citing:
 }
 
 ```
+# Dependencies  
+- PyTorch
 
 # OCPose
 

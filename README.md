@@ -42,9 +42,9 @@ OCPose | 9000 | 8105(**90%**) | 6843(**76%**) | 2442(**27%**) | **0.47**
 
 ## Download processed annotations
 
-pls, Download annotations processed by sampling rules according to our paper 
-[train_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)
-[test_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)
+pls, Download annotations processed by sampling rules according to our paper  
+[train_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)  
+[test_process_datasets](https://drive.google.com/file/d/1WlZETQuOJWWARos8nnQw9XRamsTRTrrA/view?usp=sharing)  
 
 
 

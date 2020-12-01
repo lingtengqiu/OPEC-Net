@@ -70,13 +70,10 @@ Before training, the structure of projects like:
 ```
 coco
 |   train2017
-|   |   xxxxx.jpg
-|   |
+|      xxxxx.jpg   
 crowdpose
 |   images
-|   |   xxxxx.jpg
-|   |
-
+|      xxxxx.jpg
 project
 │   
 │     
@@ -96,8 +93,6 @@ project
 |              yolow eights
 └───train_process_datasets
        download from Download processed annotations
-                   
-    
 ```
                     
 

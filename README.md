@@ -66,13 +66,25 @@ The pretrain checkpoints trained by official codes could be download as followin
 Instead of using pretrain module in coco2017, we simply provide your quick start version, where you merely train the OPEC-Net from processed data including both coco and CrowdPose.
 
 Before training, the structure of projects like:  
-crowdpose ----images ----- 100000.jpg   
-  
-coco ------train2017 ----- xxxxxx.jpg  
 
-master ----test_process_datasets  test_process_file you download in Download processed annotations  
-       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ----train_process_datasets train_process_file you download in Download processed annotations  
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
                     
 
 # Results

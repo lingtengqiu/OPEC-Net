@@ -122,5 +122,5 @@ AlphaPose+ | 30.8 | 58.4 |28.5 | 22.4 | 8.2
 **OPEC-Net** | **32.8** | **60.5** | **31.1** | **24.0** | **9.2**
 
 # Visualization
-[!result on crowdpose](show_imgs/visualization.png)
+![result on crowdpose](show_imgs/visualization.png)
 

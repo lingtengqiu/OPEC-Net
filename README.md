@@ -17,6 +17,8 @@ If you find our works useful in your reasearch, please consider citing:
 - PyTorch(>=0.4 && <=1.0)  
 - mmcv
 - OpenCV
+- visdom 
+- pycocotools
 
 This code is tested under Ubuntu 18.04, CUDA 10.1, cuDNN 7.1 environment with two NVIDIA 1080Ti GPUs.
 

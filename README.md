@@ -56,12 +56,19 @@ The pretrain checkpoints trained by official codes could be download as followin
 
 # Results
 
-Results on CrowdPose-test:  
+Result on CrowdPose-test:  
 
 Method | mAP@50:95 | AP50 | AP75 | AP80 | AP90
 :--:|:--:|:--:|:--:|:--:|:--:
 Mask RCNN | 57.2 | 83.5 | 60.3 | - | -
 Simple Pose | 60.8 | 81.4 | 65.7 | - | -
 AlphaPose+ | 68.5 | 86.7 |73.2 | 66.9 | 45.9
-**OPEC-Net** | 70.6| 86.8 | 75.6 | 70.1 | 48.8
+**OPEC-Net** | **70.6**| **86.8** | **75.6** | **70.1** | **48.8**
+
+Result on OCHuman:  
+
+Method | mAP@50:95 | AP50 | AP75 | AP80 | AP90
+:--:|:--:|:--:|:--:|:--:|:--:
+AlphaPose+ | 27.5 | 40.8 |29.9 | 24.8 | 9.5
+**OPEC-Net** | **29.1** | **41.3** | **31.4** | **27.0** | **12.8**
 

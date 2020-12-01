@@ -25,8 +25,8 @@ OCPose | 9000 | 8105(**90%**) | 6843(**76%**) | 2442(**27%**) | **0.47**
 # Quick Start
 
 ## Download Datasets
-[COCO2017](https://cocodataset.org)
-[CrowdPose](https://github.com/Jeff-sjtu/CrowdPose)
-[OCHuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
+[COCO2017](https://cocodataset.org)  
+[CrowdPose](https://github.com/Jeff-sjtu/CrowdPose)  
+[OCHuman](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)  
 
 

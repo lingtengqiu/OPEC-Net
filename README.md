@@ -3,4 +3,9 @@
 (ECCV2020)
 # OCPose
 
+Method | Backbone | TrainSet| EvalSet | Mean IoU(ss) | Mean IoU(msf) 
+:--:|:--:|:--:|:--:|:--:|:--:
+ deeperlab(ours+SBD)  | R101_v1c | *train_aug*  | *val*  | 79.71 | 80.26 
+ deeperlab(ours)   | R101_v1c | *train_aug*  | *val*  | 73.28 | 74.11 
+
 

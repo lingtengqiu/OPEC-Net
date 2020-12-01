@@ -68,22 +68,36 @@ Instead of using pretrain module in coco2017, we simply provide your quick start
 Before training, the structure of projects like:  
 
 ```
+coco
+|   train2017
+|   |   xxxxx.jpg
+|   |
+crowdpose
+|   images
+|   |   xxxxx.jpg
+|   |
+
 project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+│     
+│
+└───test_process_datasets
+│      download from Download processed annotations
+│      
+│   
+└──────weights
+│       │-- sppe
+│       │     sppe weights
+│       |   
+│       |-- ssd
+|       |   
+|       |   
+|       └───yolo 
+|              yolow eights
+└───train_process_datasets
+       download from Download processed annotations
+                   
+    
 ```
                     
 

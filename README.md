@@ -91,6 +91,11 @@ project
  CONFIG_FILES=./configs/OPEC_GCN_GrowdPose_Test_FC.py
  bash train.sh ${TRAIN_BATCH_SIZE} ${CONFIG_FILES} 
  ```
+ after training, the result of CrowdPose is save into checkpoint/name/mAP.txt
+ the format of results like:
+ ```
+ epoch (alphapose as inital module) (alphapose+ as initial module) 
+ ```
 
 ## Test script
 e.g.  

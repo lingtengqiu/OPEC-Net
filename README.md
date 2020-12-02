@@ -91,7 +91,7 @@ project
  CONFIG_FILES=./configs/OPEC_GCN_GrowdPose_Test_FC.py
  bash train.sh ${TRAIN_BATCH_SIZE} ${CONFIG_FILES} 
  ```
- after training, the result of CrowdPose is save into checkpoint/name/mAP.txt
+ after training, the result of CrowdPose is save into checkpoints/name/mAP.txt  
  the format of results like:
  ```
  epoch (without best match) (use best match) 

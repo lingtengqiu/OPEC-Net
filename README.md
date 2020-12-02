@@ -85,7 +85,10 @@ project
 ```
  
  ## Training script
+ For example
  ```
+ TRAIN_BATCH_SIZE=14
+ CONFIG_FILES=./configs/OPEC_GCN_GrowdPose_Test_FC.py
  bash train.sh ${TRAIN_BATCH_SIZE} ${CONFIG_FILES} 
  ```
 

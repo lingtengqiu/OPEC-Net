@@ -83,7 +83,11 @@ project
 └───train_process_datasets
        download from Download processed annotations
 ```
-                    
+ 
+ ## Training script
+ ```
+ bash train.sh ${TRAIN_BATCH_SIZE} ${CONFIG_FILES} 
+ ```
 
 # Results
 

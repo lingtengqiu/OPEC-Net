@@ -94,7 +94,7 @@ project
  after training, the result of CrowdPose is save into checkpoint/name/mAP.txt
  the format of results like:
  ```
- epoch (alphapose as inital module) (alphapose+ as initial module) 
+ epoch (without best match) (use best match) 
  ```
 
 ## Test script

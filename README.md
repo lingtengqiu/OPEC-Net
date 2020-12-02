@@ -3,7 +3,7 @@
 ![](show_imgs/pipeline.png)
 
 # Dependencies  
-- PyTorch(>=0.4 && <=1.0)  
+- PyTorch(>=0.4 && <=1.1)  
 - mmcv
 - OpenCV
 - visdom 

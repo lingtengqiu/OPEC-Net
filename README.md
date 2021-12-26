@@ -29,9 +29,13 @@ OCPose | 9000 | 8105(**90%**) | 6843(**76%**) | 2442(**27%**) | **0.47**
 
 ## Download
 
+### Google Drive
 [Images](https://drive.google.com/file/d/1oQ1_epocYgvlha4eowt1FS-5f89XU7xw/view?usp=sharing)  
 [Annotations](https://drive.google.com/file/d/1z8xlN56x9aKve4YSEudYJOJOPt4YaC7H/view?usp=sharing)
 
+### Baidu Drive
+[Image](https://pan.baidu.com/s/19w5v-_FR2JGbON_Peqt8AA) code:euq6  
+[Annotations](https://pan.baidu.com/s/1c7Ob5McvMeiIRvPzUHqm2g) code:3xgr
 
 # Quick Start under CrowdPose Datasets
 

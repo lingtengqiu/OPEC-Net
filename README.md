@@ -92,7 +92,7 @@ project
  e.g.  
  ```
  TRAIN_BATCH_SIZE=14
- CONFIG_FILES=./configs/OPEC_GCN_GrowdPose_Test_FC.py
+ CONFIG_FILES=./configs/OPEC_GCN_CrowdPose_Test_FC.py
  bash train.sh ${TRAIN_BATCH_SIZE} ${CONFIG_FILES} 
  ```
  after training, the result of CrowdPose is save into checkpoints/name/mAP.txt  
